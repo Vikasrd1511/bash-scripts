@@ -14,7 +14,7 @@ sudo echo '<!DOCTYPE html>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 
-		<title>A Basic HTML5 Template</title>
+		<title>A Basic HTML5 Template Created by Vikas Dain..... </title>
 
 		<link rel="preconnect" href="https://fonts.googleapis.com" />
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -30,7 +30,7 @@ sudo echo '<!DOCTYPE html>
 		<div class="wrapper">
 			<div class="container">
 				<h1>Welcome! An Apache web server has been started successfully.</h1>
-				<p>Replace this with your own index.html file in /var/www/html.</p>
+				
 			</div>
 		</div>
 	</body>
